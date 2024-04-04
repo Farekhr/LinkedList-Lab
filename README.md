@@ -2,6 +2,8 @@
 COMPENG 2SI3 Linked List Lab.
 
 Here, I delved deep into likedlist implementations, learning how to work with this abstract data type. 
+This code was used as an add-on to an existing snake game implementation to improve efficiency and run-time.
+This code was deeply analyzed to ensure time and space complexity optimization. 
 
 Constructor and Destructor:
 - Implement both to manage resources properly. The constructor should initialize the list with dummy head and tail nodes.
