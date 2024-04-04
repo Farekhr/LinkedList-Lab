@@ -28,5 +28,5 @@ Element Removal Functions:
 
 List Traversal and Debugging:
 - **Persistent Read Head (`persistHead`)**: Manage a pointer for efficient list traversal, with two design choices for its behavior in advancing through the list.
-- `printList() const`: A non-graded, debugging utility to visually display the structure and content of the list, highlighting the connections between nodes.
+- `printList() const`: Debugging utility to visually display the structure and content of the list, highlighting the connections between nodes.
 
