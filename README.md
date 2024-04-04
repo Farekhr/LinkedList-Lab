@@ -1,6 +1,8 @@
 # LinkedList-Lab
 COMPENG 2SI3 Linked List Lab.
 
+Here, I delved deep into likedlist implementations, learning how to work with this abstract data type. 
+
 Constructor and Destructor:
 - Implement both to manage resources properly. The constructor should initialize the list with dummy head and tail nodes.
 
